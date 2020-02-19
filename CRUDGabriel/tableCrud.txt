@@ -1,0 +1,7 @@
+CREATE TABLE registros(
+	id serial,
+	nome text,
+	marca text);
+
+
+**dbVideogames
